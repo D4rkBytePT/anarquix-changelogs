@@ -1,5 +1,38 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T00:44:02.306Z",
-  "entries": []
+  "updatedAt": "2026-08-22T01:54:56.692Z",
+  "entries": [
+    {
+      "id": "2026-08-22-jtobs",
+      "server": "network",
+      "serverLabel": "Network",
+      "title": "GeoPolítica e novas atualizações da Network",
+      "publishedAt": "2026-08-22T01:54:56.678Z",
+      "updatedAt": "2026-08-22T01:54:56.692Z",
+      "sections": {
+        "additions": [
+          "O GeoPolítica está oficialmente disponível através do Lobby.",
+          "Publicado o guia completo do GeoPolítica, com cidades, nações, alianças, guerras e progressão.",
+          "Adicionadas as regras oficiais específicas do GeoPolítica.",
+          "Criado um novo histórico de atualizações em anarquix.com/changelog.",
+          "Os próximos changelogs passam a ficar disponíveis no website de forma organizada."
+        ],
+        "fixes": [
+          "Atualizado o seletor de modalidades para o estado atual do GeoPolítica.",
+          "Corrigida uma falha grave relacionada com a integridade de inventários.",
+          "Reforçada a proteção contra minimapas e modificações proibidas.",
+          "Aplicados ajustes adicionais ao acesso por Java, Bedrock e contas não premium.",
+          "Melhorada a estabilidade de vários comandos e sistemas internos.",
+          "Melhorada a navegação e compatibilidade mobile do website."
+        ],
+        "notes": [
+          "O GeoPolítica tem regras e mecânicas diferentes do Semi-anarquia. Consulta o guia antes de começares.",
+          "Bugs ou comportamentos anormais devem ser reportados através de ticket."
+        ]
+      },
+      "discordMessageUrl": null,
+      "discordMessageId": null,
+      "discordChannelId": null
+    }
+  ]
 }
