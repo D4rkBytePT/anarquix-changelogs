@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T00:43:55.536Z",
+  "updatedAt": "2026-08-22T00:43:58.884Z",
   "entries": [
     {
       "id": "qa-mt3nnp8t",
@@ -8,7 +8,7 @@
       "serverLabel": "Teste interno",
       "title": "Validação técnica do changelog",
       "publishedAt": "2026-08-22T00:43:55.535Z",
-      "updatedAt": "2026-08-22T00:43:55.536Z",
+      "updatedAt": "2026-08-22T00:43:58.884Z",
       "sections": {
         "additions": [],
         "fixes": [],
@@ -16,9 +16,9 @@
           "Entrada temporária criada automaticamente e removida no final do ensaio."
         ]
       },
-      "discordMessageUrl": null,
-      "discordMessageId": null,
-      "discordChannelId": null
+      "discordMessageUrl": "https://discord.com/channels/1197606533656215553/1540516002129772764/1540521884490399745",
+      "discordMessageId": "1540521884490399745",
+      "discordChannelId": "1540516002129772764"
     }
   ]
 }
