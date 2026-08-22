@@ -1,5 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T00:39:47.760Z",
-  "entries": []
+  "updatedAt": "2026-08-22T00:40:17.828Z",
+  "entries": [
+    {
+      "id": "qa-mt3nj1fh",
+      "server": "outros",
+      "serverLabel": "Teste interno",
+      "title": "Validação técnica do changelog",
+      "publishedAt": "2026-08-22T00:40:17.827Z",
+      "updatedAt": "2026-08-22T00:40:17.828Z",
+      "sections": {
+        "additions": [],
+        "fixes": [],
+        "notes": [
+          "Entrada temporária criada automaticamente e removida no final do ensaio."
+        ]
+      },
+      "discordMessageUrl": null,
+      "discordMessageId": null,
+      "discordChannelId": null
+    }
+  ]
 }
