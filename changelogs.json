@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T01:54:56.692Z",
+  "updatedAt": "2026-08-22T01:55:04.733Z",
   "entries": [
     {
       "id": "2026-08-22-jtobs",
@@ -8,7 +8,7 @@
       "serverLabel": "Network",
       "title": "GeoPolítica e novas atualizações da Network",
       "publishedAt": "2026-08-22T01:54:56.678Z",
-      "updatedAt": "2026-08-22T01:54:56.692Z",
+      "updatedAt": "2026-08-22T01:55:04.732Z",
       "sections": {
         "additions": [
           "O GeoPolítica está oficialmente disponível através do Lobby.",
@@ -30,9 +30,9 @@
           "Bugs ou comportamentos anormais devem ser reportados através de ticket."
         ]
       },
-      "discordMessageUrl": null,
-      "discordMessageId": null,
-      "discordChannelId": null
+      "discordMessageUrl": "https://discord.com/channels/1197606533656215553/1238916045365055539/1540539757120200805",
+      "discordMessageId": "1540539757120200805",
+      "discordChannelId": "1238916045365055539"
     }
   ]
 }
