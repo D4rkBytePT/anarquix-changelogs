@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T02:41:42.580Z",
+  "updatedAt": "2026-08-25T02:41:49.014Z",
   "entries": [
     {
       "id": "2026-08-25-e9jad",
@@ -8,7 +8,7 @@
       "serverLabel": "Network",
       "title": "Proteção, votos e estabilidade da Network",
       "publishedAt": "2026-08-25T02:41:28.349Z",
-      "updatedAt": "2026-08-25T02:41:28.401Z",
+      "updatedAt": "2026-08-25T02:41:49.014Z",
       "sections": {
         "additions": [
           "Adicionada uma nova camada de proteção contra bots na entrada da Network.",
@@ -28,9 +28,9 @@
           "Caso uma verificação bloqueie uma ligação legítima, deve ser aberto um ticket."
         ]
       },
-      "discordMessageUrl": null,
-      "discordMessageId": null,
-      "discordChannelId": null
+      "discordMessageUrl": "https://discord.com/channels/1197606533656215553/1238916045365055539/1541638689833361422",
+      "discordMessageId": "1541638689833361422",
+      "discordChannelId": "1238916045365055539"
     },
     {
       "id": "2026-08-22-jtobs",
