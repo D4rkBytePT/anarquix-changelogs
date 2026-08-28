@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T03:27:12.682Z",
+  "updatedAt": "2026-08-28T03:32:34.284Z",
   "entries": [
     {
       "id": "2026-08-28-practice",
@@ -8,7 +8,7 @@
       "serverLabel": "Network",
       "title": "Practice e nova fase da Network",
       "publishedAt": "2026-08-28T03:27:12.682Z",
-      "updatedAt": "2026-08-28T03:27:12.682Z",
+      "updatedAt": "2026-08-28T03:32:34.284Z",
       "sections": {
         "additions": [
           "O Practice regressou oficialmente à Anarquix Network.",
@@ -32,9 +32,9 @@
           "Qualquer problema deve ser reportado através de ticket."
         ]
       },
-      "discordMessageUrl": null,
-      "discordMessageId": null,
-      "discordChannelId": null
+      "discordMessageUrl": "https://discord.com/channels/1197606533656215553/1238916045365055539/1542738627430187039",
+      "discordMessageId": "1542738627430187039",
+      "discordChannelId": "1238916045365055539"
     },
     {
       "id": "2026-08-25-e9jad",
