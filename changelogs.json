@@ -1,7 +1,41 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T02:41:49.014Z",
+  "updatedAt": "2026-08-28T03:27:12.682Z",
   "entries": [
+    {
+      "id": "2026-08-28-practice",
+      "server": "network",
+      "serverLabel": "Network",
+      "title": "Practice e nova fase da Network",
+      "publishedAt": "2026-08-28T03:27:12.682Z",
+      "updatedAt": "2026-08-28T03:27:12.682Z",
+      "sections": {
+        "additions": [
+          "O Practice regressou oficialmente à Anarquix Network.",
+          "A modalidade conta com arenas, duelos, kits e competição.",
+          "Rankings de vitórias, derrotas, abates e sequências estão disponíveis.",
+          "Ranks e permissões da Network foram integrados no Practice.",
+          "O Lobby e o seletor de modalidades foram atualizados para a nova organização da Network."
+        ],
+        "fixes": [
+          "O progresso antigo do Practice, incluindo ELO e estatísticas, foi reiniciado para garantir um começo justo.",
+          "Corrigida a apresentação dos ranks no TAB e scoreboard.",
+          "Restaurado e preparado o sistema de leaderboards.",
+          "Melhorada a compatibilidade entre diferentes versões do Minecraft.",
+          "Melhorada a estabilidade dos sistemas de login, punições e proteção.",
+          "A infraestrutura da Network foi migrada e preparada para maior estabilidade.",
+          "Aplicadas várias correções menores em menus, mensagens e ligações entre servidores."
+        ],
+        "notes": [
+          "O Semi-Anarquia foi retirado da Network ativa.",
+          "O GeoPolítica e o Practice passam a ser as principais modalidades disponíveis.",
+          "Qualquer problema deve ser reportado através de ticket."
+        ]
+      },
+      "discordMessageUrl": null,
+      "discordMessageId": null,
+      "discordChannelId": null
+    },
     {
       "id": "2026-08-25-e9jad",
       "server": "network",
